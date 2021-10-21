@@ -1,0 +1,180 @@
+ID,Study,Stage,Grade,Histology,Age
+1,NECC,*,*,control,53
+2,PMP,*,0,serous borderline,58
+3,PMP,III,3,serous adenocarcinoma,59
+4,PMP,IV,3,serous adenocarcinoma,66
+5,PMP,*,*,endometrioma,49
+6,PMP,I,1,clear cell adenocarcinoma,50
+7,PMP,*,*,serous cystadenoma,47
+8,PMP,I,2,endometrioid adenocarcinoma,49
+9,PMP,III,3,clear cell adenocarcinoma,54
+10,PMP,*,*,serous cystadenoma,45
+11,PMP,*,0,serous borderline,59
+12,PMP,II,2,clear cell adenocarcinoma,59
+13,PMP,*,*,serous cystadenoma,70
+14,PMP,III,3,endometrioid adenocarcinoma,57
+15,PMP,*,0,serous borderline,56
+16,PMP,III,3,endometrioid adenocarcinoma,63
+17,PMP,*,0,serous borderline,69
+18,PMP,*,0,serous borderline,50
+19,PMP,III,2,endometrioid adenocarcinoma,55
+20,PMP,II,3,serous adenocarcinoma,74
+21,PMP,*,*,endometrioma,65
+22,PMP,*,*,endometrioma,52
+23,PMP,*,0,serous borderline,51
+24,PMP,I,1,clear cell adenocarcinoma,64
+25,PMP,*,0,serous borderline,56
+26,PMP,III,3,serous adenocarcinoma,55
+27,PMP,*,*,endometrioma,55
+28,NECC,*,*,control,45
+29,NECC,*,*,control,71
+30,PMP,*,*,endometrioma,60
+31,PMP,*,*,serous cystadenoma,59
+32,PMP,II,3,serous adenocarcinoma,63
+33,PMP,III,3,serous adenocarcinoma,48
+34,NECC,*,*,control,58
+35,PMP,*,*,serous cystadenoma,55
+36,PMP,II,3,serous adenocarcinoma,52
+37,PMP,II,3,serous adenocarcinoma,59
+38,NECC,*,*,control,60
+39,PMP,III,3,serous adenocarcinoma,49
+40,PMP,*,*,endometrioma,56
+41,PMP,II,2,endometrioid adenocarcinoma,52
+42,NECC,*,*,control,59
+43,PMP,II,3,serous adenocarcinoma,69
+44,PMP,*,*,endometrioma,50
+45,PMP,I,1,endometrioid adenocarcinoma,57
+46,NECC,*,*,control,52
+47,PMP,*,*,endometrioma,53
+48,PMP,II,3,serous adenocarcinoma,58
+49,PMP,*,*,endometrioma,56
+50,PMP,I,2,endometrioid adenocarcinoma,66
+51,PMP,*,1,endometrioid adenocarcinoma,62
+52,NECC,*,*,control,63
+53,PMP,*,0,serous borderline,54
+54,PMP,II,3,serous adenocarcinoma,59
+55,PMP,II,3,serous adenocarcinoma,60
+57,PMP,I,2,endometrioid adenocarcinoma,59
+58,PMP,*,0,serous borderline,69
+59,PMP,I,3,serous adenocarcinoma,61
+60,PMP,III,3,endometrioid adenocarcinoma,56
+61,PMP,*,*,endometrioma,55
+62,PMP,I,2,endometrioid adenocarcinoma,68
+63,PMP,II,3,serous adenocarcinoma,52
+64,PMP,*,0,serous borderline,45
+65,PMP,I,1,serous adenocarcinoma,60
+66,PMP,III,3,serous adenocarcinoma,51
+67,PMP,I,3,serous adenocarcinoma,56
+68,PMP,*,0,serous borderline,49
+69,PMP,III,3,serous adenocarcinoma,70
+70,PMP,I,1,clear cell adenocarcinoma,51
+71,PMP,I,2,endometrioid adenocarcinoma,57
+72,PMP,*,0,serous borderline,52
+73,PMP,I,3,serous adenocarcinoma,52
+74,PMP,I,1,endometrioid adenocarcinoma,71
+75,PMP,*,*,serous cystadenoma,56
+76,NECC,*,*,control,45
+77,PMP,*,*,serous cystadenoma,69
+78,NECC,*,*,control,47
+79,PMP,*,*,serous cystadenoma,51
+80,PMP,III,3,serous adenocarcinoma,59
+81,PMP,*,*,endometrioma,54
+82,PMP,*,0,serous borderline,60
+83,NECC,*,*,control,49
+84,NECC,*,*,control,48
+85,PMP,*,*,serous cystadenoma,55
+86,PMP,I,3,serous adenocarcinoma,53
+87,PMP,*,*,serous cystadenoma,71
+88,PMP,I,1,endometrioid adenocarcinoma,65
+89,PMP,*,*,endometrioma,52
+90,PMP,*,*,endometrioma,56
+91,NECC,*,*,control,52
+92,PMP,III,3,serous adenocarcinoma,50
+93,PMP,I,1,endometrioid adenocarcinoma,47
+94,PMP,II,3,endometrioid adenocarcinoma,56
+95,PMP,III,3,serous adenocarcinoma,60
+96,PMP,*,*,endometrioma,70
+97,PMP,III,2,endometrioid adenocarcinoma,51
+98,NECC,*,*,control,67
+99,PMP,I,3,endometrioid adenocarcinoma,56
+100,PMP,II,3,serous adenocarcinoma,52
+101,PMP,II,3,mixed with clear cell adenocarcinoma or endometroid component,59
+102,PMP,*,*,serous cystadenoma,53
+103,NECC,*,*,control,53
+104,PMP,III,2,clear cell adenocarcinoma,62
+105,PMP,I,1,endometrioid adenocarcinoma,45
+106,PMP,II,3,serous adenocarcinoma,48
+107,PMP,II,2,serous adenocarcinoma,55
+108,PMP,III,3,clear cell adenocarcinoma,50
+109,PMP,*,*,serous cystadenoma,50
+110,PMP,*,*,serous cystadenoma,52
+111,PMP,*,*,serous cystadenoma,49
+112,PMP,III,3,mixed with clear cell adenocarcinoma or endometroid component,57
+113,PMP,I,1,endometrioid adenocarcinoma,65
+114,PMP,II,3,serous adenocarcinoma,45
+115,PMP,I,2,serous adenocarcinoma,52
+116,PMP,I,1,serous adenocarcinoma,73
+117,PMP,*,0,serous borderline,62
+118,PMP,*,0,serous borderline,61
+119,PMP,II,3,endometrioid adenocarcinoma,46
+120,PMP,*,*,endometrioma,55
+e1001,ERA,II,2,endometrioid adenocarcinoma,59
+e1002,ERA,III,3,serous adenocarcinoma,70
+e1003,ERA,II,1,endometrioid adenocarcinoma,70
+e1004,ERA,III,3,serous adenocarcinoma,59
+e1005,ERA,II,3,serous adenocarcinoma,56
+e1006,ERA,*,*,fibrothecoma,52
+e1007,ERA,III,3,serous adenocarcinoma,75
+e1008,ERA,I,3,serous adenocarcinoma,66
+e1009,ERA,IV,3,serous adenocarcinoma,55
+e1010,ERA,*,*,simple Cyst,51
+e1011,ERA,III,3,serous adenocarcinoma,66
+e1012,ERA,III,0,serous borderline,61
+e1013,ERA,I,0,mucinous borderline,48
+e1014,ERA,IV,3,serous adenocarcinoma,59
+e1015,ERA,III,3,serous adenocarcinoma,59
+e1016,ERA,II,3,clear cell adenocarcinoma,51
+e1017,ERA,II,3,serous adenocarcinoma,61
+e1019,ERA,III,3,serous adenocarcinoma,71
+e1020,ERA,III,3,serous adenocarcinoma,73
+e1021,ERA,IV,3,serous adenocarcinoma,49
+e1022,ERA,II,3,serous adenocarcinoma,65
+e1023,ERA,I,1,endometrioid adenocarcinoma,65
+e1024,ERA,III,1,serous adenocarcinoma,46
+e1026,ERA,III,3,metastatic uterine myxoid leiomyosarcoma,48
+e1027,ERA,III,0,serous borderline,45
+e1029,ERA,*,*,adenofibroma,28
+e1030,ERA,IV,3,metastatic uterine papillary serous carcinoma,68
+e1031,ERA,III,3,serous adenocarcinoma,64
+e1032,ERA,III,3,serous adenocarcinoma,56
+e1033,ERA,IV,3,metastatic uterine epithelioid leiomyosarcoma,66
+e1034,ERA,IV,2,metastatic endometrioid endometrial adenocarcinoma,49
+e1035,ERA,II,3,serous adenocarcinoma,59
+e1036,ERA,*,*,serous cystadenoma,50
+e1037,ERA,I,0,mucinous borderline,54
+e1038,ERA,*,*,serous cystadenofibroma,72
+e1039,ERA,*,*,serous cystadenoma,55
+e1040,ERA,*,*,benign Brenner tumor,44
+e1041,ERA,III,3,serous adenocarcinoma,78
+e1042,ERA,*,*,serous cystadenofibroma,52
+e1043,ERA,*,*,serous cystadenofibroma,55
+e1044,ERA,III,3,serous adenocarcinoma,62
+e1045,ERA,III,3,serous adenocarcinoma,69
+e1046,ERA,I,0,serous borderline,53
+e1047,ERA,III,3,serous adenocarcinoma,68
+e1048,ERA,III,0,serous borderline,53
+e1049,ERA,II,2,endometrioid adenocarcinoma,52
+e1050,ERA,I,0,serous borderline,56
+e1051,ERA,IV,1,serous adenocarcinoma,43
+e1052,ERA,I,3,endometrioid adenocarcinoma,56
+e1053,ERA,*,*,atypical leiomyoma,44
+e1054,ERA,*,*,mucinous cystadenoma,63
+e1055,ERA,*,*,serous cystadenofibroma,61
+e1056,ERA,I,1,mucinous adenocarcinoma,50
+e1057,ERA,III,3,metastatic endometrioid endometrial adenocarcinoma,58
+e1058,ERA,*,*,benign Brenner tumor,63
+e1059,ERA,I,1,adult Granulosa Cell tumor,50
+e1060,ERA,*,*,fibroma,60
+e1061,ERA,IV,3,serous adenocarcinoma,52
+e1062,ERA,*,*,serous cystadenoma,77
+e1063,ERA,*,*,leiomyoma,43
